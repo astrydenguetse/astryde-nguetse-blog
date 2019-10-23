@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 | Words from the text | Synonym/explanation in English |
 | ------------------- | ------------------------------ |
-| stress cycle        | stress follows a cycle event which circle around each step increasing the severity of the next step                   |
+| stress cycle        | stress follows a cycle event which circle around each step increasing the severity of the next step                   |
 | mental model        | explanation of someone's thought process about how something works, in the real world.         |
 
 ## Analysis table 

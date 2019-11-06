@@ -1,0 +1,36 @@
+---
+title: "Article_02: Stress Symptoms Signs and Causes"
+author:
+  - name: nguetse nanjou astryde vanessa
+date: 11-04-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+![](/media/sf_shared/projects/astryde-nguetse-blog/_posts/article_2/image/download.jpeg)
+
+#### Name of magazine: help guide
+
+[url](https://www.helpguide.org/articles/stress/stress-symptoms-signs-and-causes.htm)
+
+# Vocabulary
+
+| Words from the text  | Synonym / explanation in   English |
+| -------------------- | ---------------------------------- |
+| stress response      | The predictable physiological response that occurs in humans as a result of injury, surgery, shock |
+| The fight-or- flight response |  response is a physiological reaction that occurs in response to a perceived harmful event, attack, or threat to survival    |
+
+
+# Analysis table
+
+| Researchers                  | Jeanne Segal, Ph.D., Melinda Smith, M.A., Robert Segal, M.A., and Lawrence Robinson                        |
+| ---------------------------- | ------------------------------------------------------------------- |
+| Published   in?              | october 2019                                                     |
+| General topic?               | Stress is your body’s way of responding to any kind of demand or threat. When you sense danger—whether it’s real or imagined—the body’s defenses kick into high gear in a rapid, automatic process known as the “fight-or-flight” reaction or the “stress response.”                       |
+| Procedure/what was examined? | What is stress?, The effects of chronic stress, Signs and symptoms of stress overload and the Causes of stress|
+| Conclusions/discovery?       | what causes stress depends, at least in part, on your perception of it       |
+| Remaining questions?         | What’s stressful for you? |
+
+
+

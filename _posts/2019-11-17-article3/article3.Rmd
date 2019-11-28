@@ -1,0 +1,40 @@
+   ---
+title: "Five or more hours of smartphone usage per day may increase obesity"
+description: |
+  A short description of the post.
+author:
+  - name: nguetse nanjou astryde vanessa
+  date: 11-25-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+    
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Article analysis n°3
+
+# Name of the magazine + source
+sciensedaily([url](https://www.sciencedaily.com/releases/2019/07/190725150918.htm))
+---
+## vocabulary
+| words from the text | synonym/explanation in english                             |
+| ------------------- | ---------------------------------------------------------- |
+|undoubtedly          | certainly                                       |
+| aware               | conscious of |
+
+    
+##analysis table   
+| Researchers                  | American College of Cardiology                                                                                                                                                                                                                    |
+| ---------------------------- | -----------------------------------------------------------------------------------------------------------------|
+| Published in in?             |July 25, 2019                                                  |
+| General topic?               | In a recent study presented at the ACC Latin America Conference 2019, university students who used their smartphones five or more hours a day had a 43 percent increased risk of obesity and were more likely to have other lifestyle habits that increase the risk of heart disease                                                                        |
+| Procedure/what was examined? | Researchers analyzed 1060 students of the Health Sciences Faculty at the Simón Bolívar University during June to December 2018. The study group consisted of 700 women and 360 men. With an average age of 19 years and 20 years respectively. Participating men were 36.1 percent likely to be overweight and 42.6 percent likely to be obese. Women were 63.9 percent likely to be overweight and 57.4 percent likely to be obese.. |
+| Conclusions/discovery        | Researchers found the risk of obesity increased by 43 percent if a smartphone was used five or more hours a day                                                                                                                                        |
+| Remaining questions?         | Rhe reduction in the use of smartphones would significantly reduce the rate of obesity                                                                                                                                                     
+
+Distill is a publication format for scientific and technical writing, native to the web.
+
+Learn more about using Distill at <https://rstudio.github.io/distill>.

@@ -1,0 +1,42 @@
+---
+title: "type 2 diabete:causes, cosequences and prevention"
+description: |
+  A short description of the post.
+author:
+  - name: nguetse nanjou astryde vanessa
+date: 11-28-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Artile analysis n°1
+
+
+# Type 2 diabetes is not just about insulin
+
+### Name of the magazine+source
+
+ Sciencedaily([URL](www.sciencedaily.com/releases/2019/09/190911101527.htm))
+
+## Vocabulary
+| words from the text | synonym/explanation in english |
+| ------------------- | ------------------------------ |
+| highlighted         |  draw special attention to, hight point   |
+| indeed              | In reality, in truth              |
+
+## analysis table
+| Researchers                  | Lingzi Li and Juliette Martin-Levilain                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published in?                | September 11, 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+|  General topic?              | Insulin imbalance may not be the only cause of the onset of diabetes. Researchers have now highlighted another mechanism: the liver appears to have the ability to produce a significant amount of glucose outside of any hormonal signal. In patients with excess liver fat, this overproduction of glucose could lead to type 2 diabetes, regardless of hormonal circuits                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Procedure/what was examined? | Scientists inactivated the OPA1 function in mice to be able to analyze the exact role of mitochondria. "The liver of mice that do not have the long form of OPA1 loses its ability to produce sugar in just a few weeks. Liver cell mitochondria then show an altered morphology, confirming their importance in sugar metabolism. To refine their analysis, Pierre Maechler and colleagues reintroduced a functional OPA1 protein in mice in which it had previously been deleted. And the mitochondria have regained their normal morphology, but not their activity," the scientists say. By observing controls, i.e. healthy mice in which OPA1 had been introduced in its long form, we discovered that, when equipped with these "super-mitochondria," they generated more glucose than necessary, and their liver produced sugar without any hormonal call," enthuses Pierre Maechler. This study therefore undermines the long-held belief that the production of glucose by the liver necessarily depends on external stimuli |
+| Conclusion/discovery?        | This finding may explain the development of type 2 diabetes in patients with a "fatty liver" syndrome, apart from any apparent insulin imbalance                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Remaining questions?         | obesity could also be one of the causes of diabetes                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+
+
+

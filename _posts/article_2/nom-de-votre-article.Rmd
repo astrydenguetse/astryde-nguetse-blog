@@ -1,5 +1,5 @@
 ---
-title: "Exposure to common chemicals in plastics linked to childhood obesity"
+title: "type 2 diabete:causes, cosequences and prevention"
 author:
   - name: nguetse nanjou astryde vanessa
 date: 11-25-2019
@@ -8,31 +8,33 @@ output:
     self_contained: false
 ---
 
-![]()
 
-# Article analysis n°2
+## Article analysis n°2
 
-# Name of magazine + source
+# Low-carb diet may reduce diabetes risk independent of weight loss
 
- sciencedaily([url](https://www.sciencedaily.com/releases/2019/07/190725092521.htm))
+## Name of magazine + source
 
-# Vocabulary
+ sciencedaily([url](www.sciencedaily.com/releases/2019/06/190620100036.htm))
+
+## Vocabulary
 
 | Words from the text  | Synonym / explanation in   English |
 | -------------------- | ---------------------------------- |
-| outcome              | result, effect  |
-| trend                | a general direction in which something is developing or changing    |
+| stroke               |disease that affects the arteries leading to and within the brain. |
+| obviously            |clearly, evidently    |
 
 
-# Analysis table
+## Analysis table
 
-| Researchers                  | Miriam Woodward, Wei Bao, Buyun Liu, and Leonardo                       |
+| Researchers                  | arker N. Hyde, Teryn N. Sapper                      |
 | ---------------------------- | ------------------------------------------------------------------- |
-| Published   in?              | July 25, 2019                                                     |
-| General topic?               |Exposure to common chemicals in plastics and canned foods may play a role in childhood obesity                   |
-| Procedure/what was examined? | In this study, researchers used data from the US National Health and Nutrition Examination Surveys to evaluate associations between BPA, BPS, and BPF and body mass outcomes among children and adolescents aged 6 to 19 years
-| Conclusions/discovery?       |Children who had greater levels of BPS and BPF in their urine were more likely to have obesity compared to children with lower levels.      |
-| Remaining questions?         | should we go back to using the biphenol A (BPA)? |
+| Published   in?              | June 20, 2019                                                     |
+| General topic?               |A low-carb diet may have benefits for people at risk of developing type 2 diabetes even if they don't lose any weight.                   |
+| Procedure/what was examined? | Over about four months, each study participant ate three month-long controlled diets -- high-carb, moderate-carb and low-carb -- with a two-week break between diets. The order in which the participants ate the diets was randomly assigned.The research team, led by research scientist Parker Hyde, ensured that the participants would not lose weight by providing them with pre-prepared meals that contained an amount of calories equal to their energy expenditure.After eating the low-carb diet, the participants had a variety of significantly improved health measures, particularly lower triglycerides and improved cholesterol readings.
+
+| Conclusions/discovery?       | Despite the fact that the low-carb diet contained 2.5 times more saturated fat than the high-carb diet, it decreased saturated fat in the bloodstream and was associated with an increase in the size of cholesterol particles in the blood, which decreases the risk of desease and increased fat-burning efficiency after a low-carb diet and an improvement in blood sugar     |
+| Remaining questions?         |adopted a low carbohydrate diet would it be an effective solution against diabetes? |
 
 
 

@@ -1,5 +1,5 @@
 ---
-title: "type 2 diabete:causes, cosequences and prevention"
+title: "type 2 diabete:causes and preventions"
 author:
   - name: nguetse nanjou astryde vanessa
 date: 11-25-2019

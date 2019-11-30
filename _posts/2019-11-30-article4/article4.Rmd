@@ -1,0 +1,39 @@
+---
+title: "Article_4:Omega-3 fats have little or no effect on type 2 diabetes"
+description: |
+  A short description of the post.
+author:
+  - name: nguetse nanjou astryde vanessa
+    url: {}
+date: 11-30-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+Science daily ([url](www.sciencedaily.com/releases/2019/08/190821185334.htm))
+
+## Vocabulary
+| Words from the text            | synonym/explanation in english                                                                                     |
+| ------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
+|  Neverthless                   |  however, in spite of that                                                                                         |
+|  Randomised controlled trials. | A study in which people are allocated at random (by chance alone) to receive one of several clinical interventions |
+
+## Analysis table
+
+| Researchers                  | Tracey J Brown, Julii Brainard and Fujian Song                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  Published in in?            | August 21, 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| General topic?               | The researchers found that increasing long-chain omega-3 fats (LCn3, from fish oils, by 2g per day LCn3 over a mean trial duration of 33 months) had little or no effect on likelihood of diabetes diagnosis or on glucose metabolism, and this did not change with longer duration.                                                                                                                                                                                                                         |
+| Procedure/what was examined? | The researchers  analysed the results of 83 randomised controlled trials involving 121,070 people with and without diabetes, all of at least six months duration. Trials assessed the effects of increasing long-chain omega-3, alpha-linolenic acid, omega-6 or total PUFAs on new diabetes diagnoses or measures of glucose metabolism (how well the body processes sugars) taken either as supplements or via enriched or naturally rich foods. The quality of evidence for each trial was also measured. |
+|  Conclusions/discovery       | There is no convincing evidence to suggest that altering our LCn3, ALA, omega-6 or total PUFA intakes alters glucose metabolism or risk of diabetes and they suggest that supplements should not be encouraged for diabetes prevention or treatment.                                                                                                                                                                                                                                                         |
+|  Remaining question?         | Should not there be more extensive, high quality, at least 12-month trials of the effects of ALA, omega-6, oily fish and polyunsaturated fatty acids ( PUFA) on the diagnosis of diabetes and measurements of glucose metabolism?                                                                                                                                                                                                                                                                            |
+
+
+
+

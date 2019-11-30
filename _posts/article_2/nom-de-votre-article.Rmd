@@ -1,17 +1,13 @@
 ---
-title: "type 2 diabete:causes and preventions"
+title: "Article_2: Low-carb diet may reduce diabetes risk independent of weight loss"
 author:
   - name: nguetse nanjou astryde vanessa
-date: 11-25-2019
+date: 11-26-2019
 output:
   distill::distill_article:
     self_contained: false
 ---
 
-
-## Article analysis n°2
-
-# Low-carb diet may reduce diabetes risk independent of weight loss
 
 ## Name of magazine + source
 

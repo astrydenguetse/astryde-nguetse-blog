@@ -30,6 +30,21 @@
     "last_modified": "2019-11-29T20:35:51+01:00"
   },
   {
+    "path": "posts/article_2/",
+    "title": "Article_2: Low-carb diet may reduce diabetes risk independent of weight loss",
+    "description": {},
+    "author": [
+      {
+        "name": "nguetse nanjou astryde vanessa",
+        "url": {}
+      }
+    ],
+    "date": "2019-11-26",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-11-30T18:22:57+01:00"
+  },
+  {
     "path": "posts/2019-11-24-article1/",
     "title": "Article_1: Type 2 diabetes is not just about insulin",
     "description": "A short description of the post.",
@@ -43,21 +58,6 @@
     "categories": [],
     "preview": {},
     "last_modified": "2019-11-30T18:15:17+01:00"
-  },
-  {
-    "path": "posts/article_2/",
-    "title": "type 2 diabete:causes and preventions",
-    "description": {},
-    "author": [
-      {
-        "name": "nguetse nanjou astryde vanessa",
-        "url": {}
-      }
-    ],
-    "date": "2019-11-25",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2019-11-29T18:40:27+01:00"
   },
   {
     "path": "posts/article_2/nom-de-votre-article_files/article_2/",

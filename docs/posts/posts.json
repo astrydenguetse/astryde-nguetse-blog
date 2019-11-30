@@ -31,7 +31,7 @@
   },
   {
     "path": "posts/2019-11-24-article1/",
-    "title": "type 2 diabete:causes and prevention",
+    "title": "Article_1: Type 2 diabetes is not just about insulin",
     "description": "A short description of the post.",
     "author": [
       {
@@ -39,10 +39,10 @@
         "url": {}
       }
     ],
-    "date": "2019-11-28",
+    "date": "2019-11-25",
     "categories": [],
     "preview": {},
-    "last_modified": "2019-11-29T21:11:57+01:00"
+    "last_modified": "2019-11-30T18:15:17+01:00"
   },
   {
     "path": "posts/article_2/",

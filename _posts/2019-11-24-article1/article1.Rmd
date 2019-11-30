@@ -1,10 +1,10 @@
 ---
-title: "type 2 diabete:causes and prevention"
+title: "Article_1: Type 2 diabetes is not just about insulin"
 description: |
   A short description of the post.
 author:
   - name: nguetse nanjou astryde vanessa
-date: 11-28-2019
+date: 11-25-2019
 output:
   distill::distill_article:
     self_contained: false
@@ -14,10 +14,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Article analysis n°1
-
-
-# Type 2 diabetes is not just about insulin
 
 ### Name of the magazine+source
 

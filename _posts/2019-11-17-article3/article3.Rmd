@@ -1,5 +1,5 @@
 ---
-title: "type 2 diabete:causes and prevention"
+title: "Article_3: Vitamin D supplementation may slow diabetes progression"
 description: |
   A short description of the post.
 author:
@@ -14,9 +14,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Article analysis n_3
-
-# Vitamin D supplementation may slow diabetes progression
 
 # Name of the magazine + source
 sciensedaily([url](www.sciencedaily.com/releases/2019/07/190725211631.htm))
@@ -39,6 +36,6 @@ sciensedaily([url](www.sciencedaily.com/releases/2019/07/190725211631.htm))
 |  Conclusions/discovery       | The reason we saw improvements in glucose metabolism following vitamin D supplementation in those at high risk of diabetes, or with newly diagnosed diabetes, while other studies failed to demonstrate an effect in people with long-standing type 2 diabetes is unclear. This could be due to the fact that improvements in metabolic function are harder to detect in those with longer-term disease or that a longer treatment time is needed to see the benefits.                                                                                                                                                                              |
 |  Remaining question?         | would vitD supplementation be influenced by genetic or clinical factors?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
 
-Distill is a publication format for scientific and technical writing, native to the web.
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
+
+

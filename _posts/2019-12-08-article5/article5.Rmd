@@ -1,0 +1,40 @@
+---
+title: "article 5: Life experience critical for managing Type 2 diabetes"
+description: |
+  A short description of the post.
+author:
+  - name: nguetse nanjou astryde vanessa
+    url: {}
+date: 12-08-2019
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Name of magazine + source
+
+science daily([url](www.sciencedaily.com/releases/2019/11/191115074407.htm))
+
+
+## Vocabulary
+
+|  Words from the text |  Synonym/explanation in english                 |
+| -------------------- | ----------------------------------------------- |
+|  Earlier             | prematurely, before the usual time, before time |
+| assessed patients    | check, determine, estimate                      |
+| costly               | high-priced                                     |
+
+##Analysis table
+
+|  Researchers                  | Vicki S. Helgeson, Meredith Van Vleet and Melissa Zajdel.                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  Published in?                | November 15, 2019                                                                                                                                                                                                                                                                                                                                                                                                                           |
+|  General topic?               | A team of researchers at Carnegie Mellon University found that age plays a critical role in the well-being of people newly diagnosed with Type 2 diabetes, with younger patients more susceptible to psychological distress resulting in worse health outcomes.                                                                                                                                                                            |
+|  Procedure/what was examined? | In the study, the team evaluated 207 patients (55% male, 53% white, 47% black, 25-82 years of age), who were diagnosed with Type 2 diabetes within the past two years. The researchers assessed patients at the start of the study to establish a baseline and then six months later. They examined the results with regard to gender, race/ethnicity, age, education, employment, income, relationship status and use of medication        |
+|  Conclusion/ discovery        | They found younger patients (42 years and younger) experienced higher diabetes-related and psychological distress. In addition, patients with higher education and income expressed more stress. Conversely, older patients (older than 64 years) had less psychological stress and greater consistency in self-care, blood sugar control and medication adherence. Patients in long-term relationships also reported less diabetes stress. |
+|  Remaining question?          | How does patients react to stressors to develop effective intervention and regulation strategies for different age, gender, and cultural groups?                                                                                                                                                                                                                                                                                            |
+

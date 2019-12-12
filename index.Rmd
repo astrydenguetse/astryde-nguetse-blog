@@ -1,5 +1,5 @@
 ---
-title: "link beetween stress and depression"
+title: "factors influencing type 2 diabetic"
 site: distill::distill_website
 listing: posts
 ---

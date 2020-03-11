@@ -1,0 +1,35 @@
+---
+title: "article 6:Scientists isolate protective proteins that influence outcomes for type 2 diabetes"
+description: |
+  A short description of the post.
+author:
+  - name: nguetse nanjou astryde vanessa
+    url: {}
+date: 03-11-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+### Name of the magasine + source
+Sciencedaily([URL](www.sciencedaily.com/releases/2019/09/190909130234.htm))
+
+## Vocabulary
+|  Words from the text |  Synonym/explanation in english                              |
+| -------------------- | ------------------------------------------------------------ |
+|  the broader         | covering a large number and wide scope of subjects           |
+| Lead                 | the initiative in an action; an example for others to follow |
+| deeper               | extending far down from the top or surface                   |
+
+## analysis table
+| Researchers                  |  Trinity College Dublin                                                                                                                                                                                                                                                                                                  |
+| ---------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Published in in?             | September 9, 2019                                                                                                                                                                                                                                                                                                        |
+|  General topic?              | Scientists have, for the first time, discovered a family of proteins that are associated with lower blood sugar levels among obese patients with type 2 diabetes, implying that those proteins are associated with a better control of the patient's disease.                                                            |
+| Procedure/what was examined? | IL-36 cytokines are members of a larger family of proteins known as the interleukin-1 family which have emerged as central players in the development of obesity related disease. Researchers have linked the protective effects of these proteins with their ability to alter the make-up of the intestinal microbiome. |
+| Conclusions/discovery        | The study showed that patients with type 2 diabetes who have high levels of the protein, IL-36 cytokines, were found to have lower blood sugar levels, implying that those proteins are associated with better control of the patient's blood sugar levels and their disease.                                            |
+|  Remaining question?         | what is the impact of cytokines IL-36 on the development of metabolic diseases in humans                                                                                                                                                                                                                                 |

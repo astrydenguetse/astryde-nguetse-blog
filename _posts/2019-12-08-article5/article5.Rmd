@@ -15,6 +15,8 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](https://images.agoramedia.com/everydayhealth/gcms/Diabetes-Treatments-722x406.jpg)
+
 ## Name of magazine + source
 
 science daily([url](www.sciencedaily.com/releases/2019/11/191115074407.htm))

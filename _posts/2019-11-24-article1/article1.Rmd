@@ -14,6 +14,7 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/InsulinMonomer.jpg/300px-InsulinMonomer.jpg)
 
 ### Name of the magazine+source
 

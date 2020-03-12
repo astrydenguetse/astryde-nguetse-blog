@@ -1,20 +1,5 @@
 [
   {
-    "path": "posts/2020-03-11-article-6/",
-    "title": "article 6:Scientists isolate protective proteins that influence outcomes for type 2 diabetes",
-    "description": "A short description of the post.",
-    "author": [
-      {
-        "name": "nguetse nanjou astryde vanessa",
-        "url": {}
-      }
-    ],
-    "date": "2020-03-11",
-    "categories": [],
-    "preview": {},
-    "last_modified": "2020-03-11T10:43:19+01:00"
-  },
-  {
     "path": "posts/2020-03-11-article7/",
     "title": "article7_ Smoke signals: Study shows path linking nicotine addiction to increased risk for diabetes",
     "description": "A short description of the post.",
@@ -28,6 +13,21 @@
     "categories": [],
     "preview": {},
     "last_modified": "2020-03-12T07:13:28+01:00"
+  },
+  {
+    "path": "posts/2020-03-11-article-6/",
+    "title": "article 6:Scientists isolate protective proteins that influence outcomes for type 2 diabetes",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "nguetse nanjou astryde vanessa",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-11",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-12T07:54:39+01:00"
   },
   {
     "path": "posts/2019-12-08-article5/",

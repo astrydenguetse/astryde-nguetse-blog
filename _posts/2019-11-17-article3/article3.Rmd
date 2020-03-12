@@ -14,10 +14,12 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+![](https://cdn.diabetesselfmanagement.com/2019/07/shutterstock_385316128.jpg)
 
 # Name of the magazine + source
+
 sciensedaily([url](www.sciencedaily.com/releases/2019/07/190725211631.htm))
----
+
 ## Vocabulary
 
 | words from the text | synonym/explanation in english                             |

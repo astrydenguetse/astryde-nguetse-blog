@@ -1,0 +1,42 @@
+---
+title: "article_8:Shorter people are at higher risk of type 2 diabetes, study shows"
+description: |
+  A short description of the post.
+author:
+  - name: nguetse nanjou astryde vanessa
+    url: {}
+date: 03-13-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+![](https://cosmos-images2.imgix.net/file/spina/photo/20311/190910-HEIGHT_full.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=1400)
+
+### Name of the magazine+source
+
+ Sciencedaily([URL](www.sciencedaily.com/releases/2019/09/190916182500.htm)
+
+
+
+## Vocabulary
+
+  words from the text |   synonym/explanation in english                                       |
+| -------------------- | ---------------------------------------------------------------------- |
+| counteracts          | act against (something) in order to reduce its force or neutralize it. |
+| randomly             |  without method or conscious decision; indiscriminately.               |
+
+## analysis table
+
+  Researchers                    | Clemens Wittenbecher, Olga Kuxhaus, Heiner Boeing, Norbert Stefan, Matthias B. Schulze                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| ------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Published   in?                 | September 16, 2019                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| General topic?                  |  Short stature is associated with a higher risk of type 2 diabetes, according to a new study. Tall stature is associated with a lower risk, with each 10 cm difference in height associated with a 41 percent decreased risk of diabetes in men and a 33 percent decreased risk in women.                                                                                                                                                                                                                                                                                                 |
+|  Procedure/what was examined?   | Larger leg length was associated with a lower risk of diabetes. A slight sex difference was noted -- for men a larger sitting height at the cost of leg length related to increased risk, whilst amongst women both leg length and sitting height contributed to lower risk. The authors suggest that, among boys, growth before puberty, which relates more strongly to leg length, will have a more favourable impact on later diabetes risk than growth during puberty (assuming that truncal bones are the last to stop growing). For girls both growth periods seem to be important. |
+| Conclusions/discovery?          | The study found that the risk of future type 2 diabetes was lower by 41% for men and 33% for women for each 10cm larger height, when adjusted for age, potential lifestyle confounders, education and waist circumference.                                                                                                                                                                                                                                                                                                                                                                |
+|    Remaining questions?         | why do people of small stature have higher hepatic fat                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+

@@ -1,5 +1,20 @@
 [
   {
+    "path": "posts/2020-03-13-article8/",
+    "title": "article_8:Shorter people are at higher risk of type 2 diabetes, study shows",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "nguetse nanjou astryde vanessa",
+        "url": {}
+      }
+    ],
+    "date": "2020-03-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-03-19T11:23:18+01:00"
+  },
+  {
     "path": "posts/2020-03-11-article7/",
     "title": "article7_ Smoke signals: Study shows path linking nicotine addiction to increased risk for diabetes",
     "description": "A short description of the post.",

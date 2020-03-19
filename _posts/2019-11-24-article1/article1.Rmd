@@ -16,7 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/InsulinMonomer.jpg/300px-InsulinMonomer.jpg)
 
-### Name of the magazine+source
+### Name of magazine+source
 
  Sciencedaily([URL](www.sciencedaily.com/releases/2019/09/190911101527.htm))
 

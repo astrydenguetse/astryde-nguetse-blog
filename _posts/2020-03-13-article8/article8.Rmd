@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = FALSE)
 
 ![](https://cosmos-images2.imgix.net/file/spina/photo/20311/190910-HEIGHT_full.jpg?ixlib=rails-2.1.4&auto=format&ch=Width%2CDPR&fit=max&w=1400)
 
-### Name of the magazine+source
+### Name of magazine+source
 
  Sciencedaily([URL](www.sciencedaily.com/releases/2019/09/190916182500.htm)
 

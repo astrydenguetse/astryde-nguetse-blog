@@ -1,5 +1,5 @@
 ---
-title: "article"
+title: "CONCLUSION_factors influencing type 2 diabetic"
 description: |
   A short description of the post.
 author:
@@ -15,7 +15,6 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-Distill is a publication format for scientific and technical writing, native to the web.
+# CONCLUSION
 
-Learn more about using Distill at <https://rstudio.github.io/distill>.
-
+Type 2 diabetes and its related complications impose heavy health burdens worldwide and there have been not effective measures to fully cope with the diseases. The main cause of the diabetes epidemic is the interaction between genetic and environmental risk. Several  other factors are also attributable to the diseases. Whereas most antidiabetic agents have shown beneficial effects when used as monotherapy or combination therapy, they are also associated with negative effects, such as weight gain, hypoglycemia, gastrointestinal effects, or cardiovascular disease. With increasing incidence of type 2 diabetes, searching an ideal therapy becomes one of the top priorities in combating this disease. To date, several therapeutic strategies have been developed, such as the use of SGLT2 inhibitors, DPP-4 inhibitors and GPR40 agonists. Above all, stem cell educator therapy opened avenues to develop new therapeutic strategies in the treatment of type 2 diabetes, with safety and high therapeutic efficacy. Further investigations should focus on the exact mechanism contributing to type 2 diabetes and its related complications; effective intervention trials and prevention measures to avoid the occurrence of this disease;  earlier diagnosis for earlier treatment;  novel drugs with more beneficial effects and less adverse effects, so as to conquer this disease and improve the quality of life and overall life span.

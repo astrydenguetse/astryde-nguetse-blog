@@ -1,0 +1,20 @@
+---
+title: "introducion_the facts that influence type 2 diabetic"
+description: |
+  A short description of the post.
+author:
+  - name: nguetse nanjou astryde vanessa
+    url: {}
+date: 04-16-2020
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+# INTRODUCTION
+
+Diabetes is a chronic disease that occurs either when the pancreas does not produce enough insulin or when the body cannot effectively use the insulin it produces. There are two primary forms of diabetes, insulin-dependent diabetes mellitus (type 1 diabetes mellitus) and non-insulin-dependent diabetes mellitus (type 2 diabetes mellitus). Type 2 diabetes is the most common form of diabetes mellitus, which accounts for 90% to 95% of all diabetic patients 1 and is expected to increase to 439 million by 2030. although advancing age is a risk factor for type 2 diabetes, rising rates of childhood obesity have resulted in type 2 diabetes becoming more common in children, and adolescents, which is a serious emerging of the epidemic and a new public health problem of significant proportions. It is generally characterized by insulin resistance, where the body does not fully respond to insulin. Because insulin cannot work properly, blood glucose levels keep rising, releasing more insulin. For some people with type 2 diabetes this can eventually exhaust the pancreas, resulting in the body producing less and less insulin, causing even higher blood sugar levels (hyperglycaemia). Type 2 diabetes mostly results from the interaction among genetic risk, high blood triglyceride (fat) levels, gestational diabetes (or giving birth to a baby weighing more than 9 pounds), high-fat and carbohydrate diet, high alcohol intake, sedentary lifestyle, obesity or being overweight, ethnicity (certain groups, such as African Americans, Native Americans, Hispanic Americans, and Asian Americans, have a greater risk of developing type 2 diabetes than non-Hispanic whites) and aging (increasing age is a significant risk factor for type 2 diabetes. The risk of developing type 2 diabetes begins to rise significantly at about age 45 and rises considerably after age 65). In addition, people with type 2 diabetes are often accompanied by complications, such as cardiovascular diseases, diabetic neuropathy, nephropathy, and retinopathy. Diabetes and its associated complications lower the quality of people's lives and generate enormous economic and social burdens.
+

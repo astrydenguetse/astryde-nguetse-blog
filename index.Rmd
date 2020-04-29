@@ -1,5 +1,5 @@
 ---
-title: "factors influencing type 2 diabetic"
+title: "factors influencing type 2 diabete"
 site: distill::distill_website
 listing: posts
 ---

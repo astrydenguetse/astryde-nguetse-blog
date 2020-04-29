@@ -1,5 +1,5 @@
 ---
-title: "introducion_factors influencing type 2 diabetic"
+title: "introducion_factors influencing type 2 diabete"
 description: |
   A short description of the post.
 author:

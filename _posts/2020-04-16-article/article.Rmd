@@ -1,5 +1,5 @@
 ---
-title: "CONCLUSION_factors influencing type 2 diabetic"
+title: "CONCLUSION_factors influencing type 2 diabete"
 description: |
   A short description of the post.
 author:
@@ -17,4 +17,4 @@ knitr::opts_chunk$set(echo = FALSE)
 
 # CONCLUSION
 
-Type 2 diabetes and its related complications impose heavy health burdens worldwide and there have been not effective measures to fully cope with the diseases. The main cause of the diabetes epidemic is the interaction between genetic and environmental risk. Several  other factors are also attributable to the diseases. Whereas most antidiabetic agents have shown beneficial effects when used as monotherapy or combination therapy, they are also associated with negative effects, such as weight gain, hypoglycemia, gastrointestinal effects, or cardiovascular disease. With increasing incidence of type 2 diabetes, searching an ideal therapy becomes one of the top priorities in combating this disease. To date, several therapeutic strategies have been developed, such as the use of SGLT2 inhibitors, DPP-4 inhibitors and GPR40 agonists. Above all, stem cell educator therapy opened avenues to develop new therapeutic strategies in the treatment of type 2 diabetes, with safety and high therapeutic efficacy. Further investigations should focus on the exact mechanism contributing to type 2 diabetes and its related complications; effective intervention trials and prevention measures to avoid the occurrence of this disease;  earlier diagnosis for earlier treatment;  novel drugs with more beneficial effects and less adverse effects, so as to conquer this disease and improve the quality of life and overall life span.
+Reached the end of our work where it was a question of talking about the factors that influence type 2 diabetes. It is clear that several factors such as age, heredity, overweight, influence this disease in its own way. But the main risk factor for DT2 is lifestyle. A diet that is too fatty and too sweet, combined with a sedentary lifestyle (lack of physical exercise), leads to obesity which is in itself a major risk factor for diabetes. The standard treatment for type 2 diabetes, which must be started before any other, is therefore a change in lifestyle, including: weight loss when necessary regular physical activity, a balanced diet. These measures may be sufficient to control blood sugar. But these changes are often difficult to implement and accept for the patient.
